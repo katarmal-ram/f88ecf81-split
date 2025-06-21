@@ -14,7 +14,7 @@
     "backgroundVideo": null
   },
   "meta": {
-    "title": "Metalloid - Precision Brass Components Manufacturing",
+    "title": "Metalloid - Precision Brass Component Manufacturing",
     "description": "Leading precision brass component manufacturer with 25+ years of expertise, serving automotive, electric, and pneumatic industries nationwide."
   },
   "sections": {
@@ -37,22 +37,22 @@
       "items": [
         {
           "id": "minimum-order",
-          "answer": "We offer flexible order quantities ranging from prototype batches to large-scale production runs, accommodating diverse customer requirements.",
+          "answer": "We offer flexible order quantities ranging from prototype batches to large-scale industrial production, accommodating diverse customer requirements.",
           "question": "What are your minimum order quantities?"
         },
         {
           "id": "lead-time",
-          "answer": "Standard lead times range from 2-6 weeks depending on component complexity and order volume. Rush orders are available with expedited processing.",
+          "answer": "Standard lead times range from 2-6 weeks depending on component complexity and order volume. Rush orders are available for urgent requirements.",
           "question": "What are your typical production lead times?"
         },
         {
           "id": "quality",
-          "answer": "We maintain rigorous ISO 9001:2015 quality standards with comprehensive testing, precision measurement, and 100% quality inspection protocols.",
+          "answer": "We maintain ISO 9001:2015 certification with rigorous quality control processes, advanced testing equipment, and 100% inspection protocols.",
           "question": "How do you ensure component quality?"
         },
         {
           "id": "customization",
-          "answer": "Absolutely. Our engineering team specializes in custom design, prototyping, and manufacturing of precision brass components tailored to specific client requirements.",
+          "answer": "Yes, we specialize in custom precision component manufacturing with advanced laser marking and full engineering support.",
           "question": "Can you handle custom component designs?"
         }
       ],
@@ -108,9 +108,9 @@
           "description": "High-precision electrical components designed for demanding industrial and consumer applications.",
           "applications": [
             "Socket Terminals",
-            "Electrical Plug Pins",
-            "Connector Assemblies",
-            "Power Distribution Components"
+            "Electrical Pins",
+            "Power Connector Assemblies",
+            "Signal Transmission Components"
           ]
         },
         {
@@ -126,8 +126,8 @@
           ]
         }
       ],
-      "subtitle": "Delivering specialized solutions across multiple industrial sectors",
-      "description": "Metalloid provides high-precision brass components for diverse industrial applications, combining advanced manufacturing techniques with uncompromising quality standards."
+      "subtitle": "Delivering specialized solutions across multiple industrial domains",
+      "description": "With 25 years of manufacturing expertise, we provide high-precision brass components tailored to meet the most demanding industrial specifications."
     },
     "whyChooseUs": {
       "type": "why-choose-us",
@@ -136,13 +136,13 @@
           "id": "quality",
           "icon": "shield-check",
           "title": "Uncompromising Quality Standards",
-          "description": "Our ISO-certified processes ensure every component meets the highest precision and performance benchmarks through rigorous quality control."
+          "description": "Our ISO-certified processes and advanced quality control ensure every component meets the highest industry benchmarks for precision and reliability."
         },
         {
           "id": "experience",
           "icon": "calendar",
-          "title": "25+ Years of Manufacturing Expertise",
-          "description": "Decades of specialized experience translate into deep technical knowledge and consistently superior manufacturing solutions."
+          "title": "25 Years of Manufacturing Excellence",
+          "description": "Decades of specialized experience translate into deep technical knowledge and consistently superior manufacturing outcomes."
         },
         {
           "id": "technology",
@@ -174,7 +174,7 @@
         "24/7 Technical Support",
         "Advanced Manufacturing Capabilities"
       ],
-      "description": "Founded in 1998, Metalloid has emerged as a leading precision brass components manufacturer. We specialize in delivering high-quality, customized solutions for automotive, electrical, and pneumatic industries. Our commitment to innovation, quality, and customer satisfaction drives our continuous growth and technological advancement."
+      "description": "Founded in 1998, Metalloid has emerged as a leading precision brass component manufacturer. We specialize in delivering high-quality, customized solutions for automotive, electrical, and pneumatic industries. Our commitment to innovation, quality, and customer satisfaction drives our continuous growth and technological advancement."
     },
     "testimonials": {
       "type": "testimonials",
@@ -191,10 +191,10 @@
         {
           "id": "client-2",
           "name": "Sarah Thompson",
-          "image": "https://images.unsplash.com/photo-1573496359394-025c7bea9c4c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000",
+          "image": "https://images.unsplash.com/photo-1573496359394-025c7bea9c16?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000",
           "rating": 5,
           "company": "ElectroSystems Inc.",
-          "content": "We've been partnering with Metalloid for over a decade. Their ability to deliver custom electrical components with exceptional precision is remarkable.",
+          "content": "We've partnered with Metalloid for over a decade. Their ability to deliver custom electrical components with exceptional precision continues to impress us.",
           "designation": "Engineering Manager"
         }
       ],
@@ -205,7 +205,7 @@
   },
   "_instructions": {
     "usage": "Dynamic home page content showcasing Metalloid's manufacturing expertise",
-    "purpose": "Professional split-screen homepage template",
-    "content_tone": "Technical, confident, precision-focused"
+    "purpose": "Professional presentation of precision component manufacturing capabilities",
+    "content_tone": "Technical, confident, solution-oriented"
   }
 }
